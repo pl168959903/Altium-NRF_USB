@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=DVBUS Pin=USB1-1
+Added Component: Designator=D1(SOD-523)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DVBUS Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=USB1-1
+Added Net: Name=NetD1_1
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Schottky
+Added Room: Name=Sheet1

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=DVBUS Pin=D1-2
+Removed Pin From Net: NetName=D- Pin=USB1-2
+Removed Pin From Net: NetName=D+ Pin=USB1-3
+Removed Pin From Net: NetName=GND Pin=USB1-4
+Removed Member From Class: ClassName=Sheet1 Member=D1
+Removed Member From Class: ClassName=Sheet1 Member=USB1
+Added Component: Designator=D?(SOD-523)
+Add component. Clean all parameters for all variants
+Added Component: Designator=USB?(USB_Type-A_P_Thru-Hole)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DVBUS Pin=D?-2
+Added Pin To Net: NetName=D- Pin=USB?-2
+Added Pin To Net: NetName=D+ Pin=USB?-3
+Added Pin To Net: NetName=GND Pin=USB?-4
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=USB?-1
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component D? Schottky
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component USB? Standard
+Added Member To Class: ClassName=Sheet1 Member=Component X? Xtal
+Added Room: Name=Sheet1

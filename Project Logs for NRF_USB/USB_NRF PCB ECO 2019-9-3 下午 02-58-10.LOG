@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=DVBUS Pin=AP1-1
+Removed Pin From Net: NetName=GND Pin=AP1-2
+Removed Pin From Net: NetName=VDD_33 Pin=AP1-5
+Removed Member From Class: ClassName=Sheet1 Member=AP1
+Added Component: Designator=AP?(SOT-23-5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DVBUS Pin=AP?-1
+Added Pin To Net: NetName=GND Pin=AP?-2
+Added Pin To Net: NetName=VDD_33 Pin=AP?-5
+Added Pin To Net: NetName=NetAP?_3 Pin=AP?-3
+Added Pin To Net: NetName=NetAP?_3 Pin=R?-1
+Added Net: Name=NetAP?_3
+Added Member To Class: ClassName=Sheet1 Member=Component AP? AP2112
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component X? Xtal

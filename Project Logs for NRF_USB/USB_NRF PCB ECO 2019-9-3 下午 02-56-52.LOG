@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=D12O Pin=X?-1
+Added Pin To Net: NetName=X32O Pin=X?-1
+Added Pin To Net: NetName=D12I Pin=X?-2
+Added Pin To Net: NetName=X32I Pin=X?-2
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C? Cap
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component LED? LED
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res
+Added Member To Class: ClassName=Sheet1 Member=Component X? Xtal
+Added Member To Class: ClassName=Sheet1 Member=Component X? Xtal
+Added Room: Name=Sheet1
